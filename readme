@@ -12,3 +12,13 @@
 
 
 ""
+
+Run the game first
+
+Each colour you can put two buttom on the map.
+You can choose as much colour as you want.
+The rule of the game is to ligature the same colour without overlap nor space remaining.
+You choose finish, it will try to give answer if possible.
+
+The problems are, it is too complecated now and it cannot finish all the possible situations. So it needs to be simplified.
+Also the code has unclear structure and need to be refactoried.
